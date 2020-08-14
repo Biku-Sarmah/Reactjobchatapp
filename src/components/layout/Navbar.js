@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
         <div>
             <nav class="navbar bg-dark">
       <h1>
-        <Link to="index"><i class="fas fa-code"></i> Home</Link>
+        <Link to="/"><i class="fas fa-code"></i> Home</Link>
       </h1>
       <ul>
         <li><Link to="register">Register</Link></li>
